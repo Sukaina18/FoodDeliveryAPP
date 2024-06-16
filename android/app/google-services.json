@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159280000264",
+    "project_id": "flutteros-mad2",
+    "storage_bucket": "flutteros-mad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159280000264:android:43ee564b6475f3e2fd90bd",
+        "android_client_info": {
+          "package_name": "com.example.flutteros_mad2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTyuyjStZ_6JRZKyM57DLrJAoxGvaI3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

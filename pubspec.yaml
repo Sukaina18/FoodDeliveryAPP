@@ -1,0 +1,59 @@
+name: flutteros_mad2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  curved_navigation_bar: ^1.0.3
+  connectivity_plus: ^3.0.6
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.17.5
+  sensors_plus: ^5.0.1
+  flutter_stripe: ^10.1.1
+  http: ^1.2.1
+  random_string: ^2.3.1
+  shared_preferences: ^2.2.3
+  image_picker: ^1.1.2
+  permission_handler: ^11.3.1
+  provider: ^6.1.2
+  url_launcher: ^6.0.9
+  geolocator: ^9.0.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - reviews.json
+    - images/ice-cream.png
+    - images/drink1.png
+    - images/burger1.png
+    - images/cake.png
+    - images/burger4.jpg
+    - images/burger5.jpeg
+    - images/burger6.jpg
+    - images/burger7.png
+    - images/logo.png
+    - images/logo1.png
+    - images/logo2.png
+    - images/logobackground1.png
+    - images/logobackground2.png
+    - images/coffee1.png
+    - images/cod1.png
+    - images/delivery1.png
+    - images/wallet.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-SemiBold.ttf
